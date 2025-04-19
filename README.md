@@ -2,7 +2,7 @@
 
 Submitted by: **Keristy Huynh**
 
-This web app: **Create Crewmate and find your crewmate in the gallery!**
+This web app: **Create crewmates and find your crew in the gallery!**
 
 Time spent: **9** hours spent in total
 
