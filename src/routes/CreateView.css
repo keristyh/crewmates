@@ -1,0 +1,56 @@
+.create-page {
+    text-align: center;
+    color: #fff;
+}
+
+.create-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2.5rem;
+}
+
+.item {
+    display: block;
+    text-align: center;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 0.1rem 0.3rem;
+    border-radius: 16px;
+    overflow: hidden;
+    overflow-wrap: break-word;
+}
+
+.options {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.95rem;
+}
+
+.submit-btn {
+    margin: 3rem 0;
+    font-size: 1.05rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.delete-btn {
+    background-color: #e74c3c;
+    color: #fff;
+    margin: 9rem 0;
+}
+
+.edit {
+    margin: 9rem 0;
+}
+
+.btn {
+    margin-top: 2rem;
+    height: 0px;
+    text-align: center;
+}
